@@ -1,4 +1,4 @@
-public class Calculator {
+public class testCalculator {
 
     // Method to add two numbers
     public int add(int a, int b) {
